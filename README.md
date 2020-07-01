@@ -12,7 +12,7 @@ Linguagem de programação interpretada estruturada, de script em alto nível co
 
 
 
-####Consolidado de funcionalidades do JS
+#### Consolidado de funcionalidades do JS
 
 | Exemplo      | Descritivo |
 | --------- | -----:|
@@ -20,5 +20,5 @@ Linguagem de programação interpretada estruturada, de script em alto nível co
 | Ex2    |  A partir do dado que usuário preencheu no formulário, exibe na tela a informação processada e foto correspondente |
 
 
-######Referências
+###### Referências
 [Curso em Vídeo - JS](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1 "Curso em Vídeo - JS")
