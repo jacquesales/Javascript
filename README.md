@@ -18,6 +18,7 @@ Linguagem de programação interpretada estruturada, de script em alto nível co
 | --------- | -----:|
 | Ex1 | Conforme hora do dia (captada e mostrada na tela), altera-se a saudação, imagem e características) |
 | Ex2    |  A partir do dado que usuário preencheu no formulário, exibe na tela a informação processada e foto correspondente |
+| Ex3    |  Contagem com um determinado intervalo e uma tabuada, ambos utilizando estrutura de repetição |
 
 
 ###### Referências
