@@ -1,6 +1,6 @@
 # Javascript
 
-[![](https://i.imgur.com/2WI82xG.png)](https://i.imgur.com/2WI82xG.png)
+[![](https://imgur.com/kmjHfJo.png)
 
 
 Linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma (protótipos, orientado a objeto, imperativo e funcional).
